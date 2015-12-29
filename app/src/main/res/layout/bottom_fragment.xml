@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:orientation="horizontal" >
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:text="换享"
+        android:id="@+id/id_facepage"
+        />
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:text="嘿嘿嘿"
+        android:id="@+id/id_hahaha"
+        />
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:text="购物车"
+        android:id="@+id/id_shopbag"
+        />
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:text="我的"
+        android:id="@+id/id_mine"
+        />
+    
+
+</LinearLayout>
